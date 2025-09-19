@@ -1,0 +1,50 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+92
+'en este progama nos permitira convertir unidades de grados centigrados a grados fahrenheit'
+4
+1
+39
+'ingrese la temperatura en centigrados'
+5
+1
+1
+a
+6
+1
+1
+b
+14
+(a * 9/5) + 32
+4
+1
+22
+'son ',b,' Fahrenheit'
+7
+0
+1
+8
+b >= 212
+6
+1
+1
+c
+5
+212-b
+4
+1
+51
+'faltan ',c,' para alcanzar su punto de ebullicion'
+13
+4
+1
+41
+'alcanzo el punto de ebullicion del agua'
+13
+1
