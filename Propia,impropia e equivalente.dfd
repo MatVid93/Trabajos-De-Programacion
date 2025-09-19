@@ -1,0 +1,53 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+73
+'en este programa le permitira saber si su fraccion es propia o impropia'
+4
+1
+21
+'digite el numerador'
+5
+1
+1
+a
+4
+1
+23
+'digite el denominador'
+5
+1
+1
+b
+7
+0
+1
+3
+a=b
+7
+0
+1
+3
+a<b
+4
+1
+13
+'es impropia'
+13
+4
+1
+11
+'es propia'
+13
+13
+4
+1
+28
+'su fraccion es equivalente'
+13
+1
